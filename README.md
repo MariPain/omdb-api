@@ -1,6 +1,6 @@
 # omdb-api
 
-Crea una aplicación de películas para hacer server render con Nodejs y Pug. Para ello usa la API de pelis que te proporcionamos
+Crea una aplicación de noticias para hacer server render con Nodejs y Front. Para ello usa la API de pelis que te proporcionamos
 
     OMDB api Templates:
     home.pug --> Renderiza un formulario de búsqueda por título de película
